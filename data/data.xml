@@ -1,0 +1,32 @@
+<people>
+    <person>
+        <name>John</name>
+        <age>25</age>
+        <gender>Male</gender>
+        <city>New York</city>
+    </person>
+    <person>
+        <name>Amy</name>
+        <age>30</age>
+        <gender>Female</gender>
+        <city>Los Angeles</city>
+    </person>
+    <person>
+        <name>Michael</name>
+        <age>35</age>
+        <gender>Male</gender>
+        <city>Chicago</city>
+    </person>
+    <person>
+        <name>Hannah</name>
+        <age>28</age>
+        <gender>Female</gender>
+        <city>Houston</city>
+    </person>
+    <person>
+        <name>Chris</name>
+        <age>40</age>
+        <gender>Male</gender>
+        <city>Phoenix</city>
+    </person>
+</people>
