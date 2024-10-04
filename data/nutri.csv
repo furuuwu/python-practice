@@ -1,0 +1,227 @@
+gender,situation,tea,coffee,height,weight,age,meat,fish,raw_fruit,cooked_fruit_veg,chocol,fat,meat_label,fish_label,raw_fruit_label,cooked_fruit_veg_label,chocol_label,gender_label,situation_label,fat_label
+2,1,0,0,151.0,58.0,72,4,3,1,4,5,6,4-6 times a week,2-3 times a week,Less than once a week,4-6 times a week,Everyday,Female,Single,Mix of vegetable oils (eg. Isio4)
+2,1,1,1,162.0,60.0,68,5,2,5,5,1,4,Everyday,Once a week,Everyday,Everyday,Less than once a week,Female,Single,Sunflower oil
+2,1,0,4,162.0,75.0,78,3,1,5,2,5,4,2-3 times a week,Less than once a week,Everyday,Once a week,Everyday,Female,Single,Sunflower oil
+2,1,0,0,154.0,45.0,91,0,4,4,0,3,2,Never,4-6 times a week,4-6 times a week,Never,2-3 times a week,Female,Single,Margarine
+2,1,2,1,154.0,50.0,65,5,3,5,5,3,2,Everyday,2-3 times a week,Everyday,Everyday,2-3 times a week,Female,Single,Margarine
+2,1,2,0,159.0,66.0,82,4,2,5,5,1,3,4-6 times a week,Once a week,Everyday,Everyday,Less than once a week,Female,Single,Peanut oil
+2,1,2,0,160.0,66.0,74,3,3,5,5,5,6,2-3 times a week,2-3 times a week,Everyday,Everyday,Everyday,Female,Single,Mix of vegetable oils (eg. Isio4)
+2,1,0,2,163.0,66.0,73,4,2,5,5,1,6,4-6 times a week,Once a week,Everyday,Everyday,Less than once a week,Female,Single,Mix of vegetable oils (eg. Isio4)
+2,1,0,3,154.0,60.0,89,4,3,5,5,5,6,4-6 times a week,2-3 times a week,Everyday,Everyday,Everyday,Female,Single,Mix of vegetable oils (eg. Isio4)
+2,1,0,2,160.0,77.0,87,2,3,5,4,0,3,Once a week,2-3 times a week,Everyday,4-6 times a week,Never,Female,Single,Peanut oil
+2,1,0,2,175.0,68.0,91,5,2,5,5,5,3,Everyday,Once a week,Everyday,Everyday,Everyday,Female,Single,Peanut oil
+2,1,2,0,165.0,75.0,81,5,2,2,3,0,6,Everyday,Once a week,Once a week,2-3 times a week,Never,Female,Single,Mix of vegetable oils (eg. Isio4)
+2,1,0,3,158.0,53.0,89,4,2,5,5,5,4,4-6 times a week,Once a week,Everyday,Everyday,Everyday,Female,Single,Sunflower oil
+2,1,2,0,155.0,63.0,79,3,1,5,3,2,4,2-3 times a week,Less than once a week,Everyday,2-3 times a week,Once a week,Female,Single,Sunflower oil
+2,1,0,2,154.0,80.0,83,3,3,5,5,1,3,2-3 times a week,2-3 times a week,Everyday,Everyday,Less than once a week,Female,Single,Peanut oil
+1,1,0,3,166.0,80.0,78,5,0,5,3,0,4,Everyday,Never,Everyday,2-3 times a week,Never,Male,Single,Sunflower oil
+2,1,0,2,159.0,57.0,74,3,2,5,3,1,4,2-3 times a week,Once a week,Everyday,2-3 times a week,Less than once a week,Female,Single,Sunflower oil
+2,1,0,2,157.0,55.0,74,3,2,5,5,2,3,2-3 times a week,Once a week,Everyday,Everyday,Once a week,Female,Single,Peanut oil
+1,1,0,1,165.0,57.0,78,5,2,5,5,5,4,Everyday,Once a week,Everyday,Everyday,Everyday,Male,Single,Sunflower oil
+2,1,0,0,156.0,90.0,78,5,1,5,5,2,4,Everyday,Less than once a week,Everyday,Everyday,Once a week,Female,Single,Sunflower oil
+1,2,0,1,175.0,90.0,73,5,1,5,3,2,8,Everyday,Less than once a week,Everyday,2-3 times a week,Once a week,Male,Living with spouse,Duck or goose fat
+2,2,2,2,161.0,68.0,76,4,2,5,5,1,1,4-6 times a week,Once a week,Everyday,Everyday,Less than once a week,Female,Living with spouse,Butter
+1,2,2,2,168.0,83.0,85,4,2,5,5,1,1,4-6 times a week,Once a week,Everyday,Everyday,Less than once a week,Male,Living with spouse,Butter
+1,1,0,4,168.0,90.0,73,3,2,4,5,0,3,2-3 times a week,Once a week,4-6 times a week,Everyday,Never,Male,Single,Peanut oil
+2,2,3,1,156.0,56.0,77,3,2,5,3,0,4,2-3 times a week,Once a week,Everyday,2-3 times a week,Never,Female,Living with spouse,Sunflower oil
+1,2,3,2,170.0,70.0,74,3,2,5,3,0,4,2-3 times a week,Once a week,Everyday,2-3 times a week,Never,Male,Living with spouse,Sunflower oil
+2,1,0,0,162.0,58.0,67,4,3,5,5,0,3,4-6 times a week,2-3 times a week,Everyday,Everyday,Never,Female,Single,Peanut oil
+1,2,4,5,172.0,80.0,68,5,3,5,5,5,5,Everyday,2-3 times a week,Everyday,Everyday,Everyday,Male,Living with spouse,Olive oil
+2,1,1,1,165.0,75.0,69,4,3,5,5,5,3,4-6 times a week,2-3 times a week,Everyday,Everyday,Everyday,Female,Single,Peanut oil
+1,2,0,2,171.0,81.0,71,4,2,5,5,5,3,4-6 times a week,Once a week,Everyday,Everyday,Everyday,Male,Living with spouse,Peanut oil
+2,2,0,1,160.0,54.0,67,4,4,5,3,2,4,4-6 times a week,4-6 times a week,Everyday,2-3 times a week,Once a week,Female,Living with spouse,Sunflower oil
+1,2,0,3,176.0,82.0,76,3,3,3,5,5,6,2-3 times a week,2-3 times a week,2-3 times a week,Everyday,Everyday,Male,Living with spouse,Mix of vegetable oils (eg. Isio4)
+1,2,0,3,164.0,53.0,69,5,3,5,5,1,5,Everyday,2-3 times a week,Everyday,Everyday,Less than once a week,Male,Living with spouse,Olive oil
+2,2,1,2,156.0,58.0,67,5,3,5,5,5,3,Everyday,2-3 times a week,Everyday,Everyday,Everyday,Female,Living with spouse,Peanut oil
+2,1,0,2,153.0,70.0,69,5,0,5,5,3,5,Everyday,Never,Everyday,Everyday,2-3 times a week,Female,Single,Olive oil
+1,2,1,0,159.0,70.0,85,3,1,5,4,5,1,2-3 times a week,Less than once a week,Everyday,4-6 times a week,Everyday,Male,Living with spouse,Butter
+1,2,0,5,170.0,60.0,74,4,2,5,5,5,1,4-6 times a week,Once a week,Everyday,Everyday,Everyday,Male,Living with spouse,Butter
+1,3,0,0,178.0,87.0,78,3,2,4,3,2,1,2-3 times a week,Once a week,4-6 times a week,2-3 times a week,Once a week,Male,Living with familty,Butter
+1,2,1,2,172.0,86.0,73,2,5,5,5,1,4,Once a week,Everyday,Everyday,Everyday,Less than once a week,Male,Living with spouse,Sunflower oil
+1,2,0,3,186.0,95.0,74,4,3,5,5,5,4,4-6 times a week,2-3 times a week,Everyday,Everyday,Everyday,Male,Living with spouse,Sunflower oil
+2,2,0,3,168.0,77.0,69,4,3,5,5,5,4,4-6 times a week,2-3 times a week,Everyday,Everyday,Everyday,Female,Living with spouse,Sunflower oil
+1,1,0,0,181.0,94.0,71,3,2,5,3,5,5,2-3 times a week,Once a week,Everyday,2-3 times a week,Everyday,Male,Single,Olive oil
+1,1,0,1,172.0,62.0,85,5,3,5,5,0,5,Everyday,2-3 times a week,Everyday,Everyday,Never,Male,Single,Olive oil
+1,2,0,0,160.0,55.0,70,5,3,5,5,5,2,Everyday,2-3 times a week,Everyday,Everyday,Everyday,Male,Living with spouse,Margarine
+2,2,0,0,155.0,50.0,73,5,1,5,5,0,3,Everyday,Less than once a week,Everyday,Everyday,Never,Female,Living with spouse,Peanut oil
+1,2,0,1,172.0,81.0,74,5,1,5,5,0,3,Everyday,Less than once a week,Everyday,Everyday,Never,Male,Living with spouse,Peanut oil
+2,2,0,2,160.0,62.0,77,3,2,3,5,0,4,2-3 times a week,Once a week,2-3 times a week,Everyday,Never,Female,Living with spouse,Sunflower oil
+2,1,0,1,158.0,51.0,69,5,1,5,5,1,4,Everyday,Less than once a week,Everyday,Everyday,Less than once a week,Female,Single,Sunflower oil
+2,1,0,2,160.0,49.0,76,3,3,5,5,3,4,2-3 times a week,2-3 times a week,Everyday,Everyday,2-3 times a week,Female,Single,Sunflower oil
+2,1,0,0,164.0,70.0,79,3,3,4,5,0,5,2-3 times a week,2-3 times a week,4-6 times a week,Everyday,Never,Female,Single,Olive oil
+2,2,0,3,153.0,60.0,65,3,3,3,4,3,4,2-3 times a week,2-3 times a week,2-3 times a week,4-6 times a week,2-3 times a week,Female,Living with spouse,Sunflower oil
+1,2,0,4,169.0,68.0,66,3,3,1,4,1,4,2-3 times a week,2-3 times a week,Less than once a week,4-6 times a week,Less than once a week,Male,Living with spouse,Sunflower oil
+2,1,2,1,165.0,65.0,85,5,5,5,5,3,5,Everyday,Everyday,Everyday,Everyday,2-3 times a week,Female,Single,Olive oil
+1,1,0,2,166.0,66.0,90,3,2,5,3,0,3,2-3 times a week,Once a week,Everyday,2-3 times a week,Never,Male,Single,Peanut oil
+1,1,0,3,176.0,85.0,75,5,5,5,2,0,2,Everyday,Everyday,Everyday,Once a week,Never,Male,Single,Margarine
+1,2,0,2,180.0,79.0,78,1,3,5,5,1,1,Less than once a week,2-3 times a week,Everyday,Everyday,Less than once a week,Male,Living with spouse,Butter
+1,1,0,2,174.0,75.0,87,3,3,5,5,5,1,2-3 times a week,2-3 times a week,Everyday,Everyday,Everyday,Male,Single,Butter
+2,1,0,2,160.0,60.0,88,3,1,5,3,0,3,2-3 times a week,Less than once a week,Everyday,2-3 times a week,Never,Female,Single,Peanut oil
+2,1,0,1,160.0,67.0,89,3,4,3,5,1,4,2-3 times a week,4-6 times a week,2-3 times a week,Everyday,Less than once a week,Female,Single,Sunflower oil
+1,2,0,0,188.0,82.0,70,4,3,5,4,0,3,4-6 times a week,2-3 times a week,Everyday,4-6 times a week,Never,Male,Living with spouse,Peanut oil
+2,2,2,0,160.0,83.0,71,3,3,5,4,3,6,2-3 times a week,2-3 times a week,Everyday,4-6 times a week,2-3 times a week,Female,Living with spouse,Mix of vegetable oils (eg. Isio4)
+1,2,0,2,179.0,67.0,76,5,2,5,3,3,2,Everyday,Once a week,Everyday,2-3 times a week,2-3 times a week,Male,Living with spouse,Margarine
+2,2,2,1,157.0,57.0,72,5,2,1,5,5,4,Everyday,Once a week,Less than once a week,Everyday,Everyday,Female,Living with spouse,Sunflower oil
+1,2,0,2,188.0,96.0,88,3,3,5,5,0,2,2-3 times a week,2-3 times a week,Everyday,Everyday,Never,Male,Living with spouse,Margarine
+1,1,0,3,174.0,74.0,68,3,5,5,5,5,5,2-3 times a week,Everyday,Everyday,Everyday,Everyday,Male,Single,Olive oil
+1,1,0,2,173.0,75.0,72,5,3,5,3,5,1,Everyday,2-3 times a week,Everyday,2-3 times a week,Everyday,Male,Single,Butter
+2,1,0,3,160.0,60.0,78,4,3,5,3,1,6,4-6 times a week,2-3 times a week,Everyday,2-3 times a week,Less than once a week,Female,Single,Mix of vegetable oils (eg. Isio4)
+2,1,0,2,150.0,55.0,67,5,2,5,5,0,3,Everyday,Once a week,Everyday,Everyday,Never,Female,Single,Peanut oil
+1,2,4,1,170.0,76.0,76,4,3,5,4,1,4,4-6 times a week,2-3 times a week,Everyday,4-6 times a week,Less than once a week,Male,Living with spouse,Sunflower oil
+1,2,0,3,180.0,90.0,68,5,3,5,5,5,4,Everyday,2-3 times a week,Everyday,Everyday,Everyday,Male,Living with spouse,Sunflower oil
+2,2,0,2,152.0,60.0,69,5,3,5,4,1,4,Everyday,2-3 times a week,Everyday,4-6 times a week,Less than once a week,Female,Living with spouse,Sunflower oil
+1,2,0,3,162.0,74.0,67,5,3,5,4,2,4,Everyday,2-3 times a week,Everyday,4-6 times a week,Once a week,Male,Living with spouse,Sunflower oil
+2,2,1,2,152.0,64.0,66,5,3,3,5,5,3,Everyday,2-3 times a week,2-3 times a week,Everyday,Everyday,Female,Living with spouse,Peanut oil
+1,2,0,2,165.0,90.0,79,5,2,5,5,5,5,Everyday,Once a week,Everyday,Everyday,Everyday,Male,Living with spouse,Olive oil
+2,2,0,0,154.0,42.0,78,3,2,2,5,1,5,2-3 times a week,Once a week,Once a week,Everyday,Less than once a week,Female,Living with spouse,Olive oil
+1,2,0,1,173.0,80.0,74,3,3,4,5,5,5,2-3 times a week,2-3 times a week,4-6 times a week,Everyday,Everyday,Male,Living with spouse,Olive oil
+2,2,0,5,153.0,59.0,71,4,3,5,5,5,5,4-6 times a week,2-3 times a week,Everyday,Everyday,Everyday,Female,Living with spouse,Olive oil
+2,2,0,1,175.0,50.0,77,3,4,5,5,4,2,2-3 times a week,4-6 times a week,Everyday,Everyday,4-6 times a week,Female,Living with spouse,Margarine
+1,2,0,0,177.0,63.0,78,3,4,5,5,0,2,2-3 times a week,4-6 times a week,Everyday,Everyday,Never,Male,Living with spouse,Margarine
+1,2,0,3,172.0,79.0,78,4,2,5,5,1,3,4-6 times a week,Once a week,Everyday,Everyday,Less than once a week,Male,Living with spouse,Peanut oil
+2,2,4,1,167.0,70.0,75,4,2,5,5,1,3,4-6 times a week,Once a week,Everyday,Everyday,Less than once a week,Female,Living with spouse,Peanut oil
+2,2,0,2,155.0,52.0,67,3,1,5,4,0,4,2-3 times a week,Less than once a week,Everyday,4-6 times a week,Never,Female,Living with spouse,Sunflower oil
+2,1,0,0,162.0,58.0,74,3,2,1,5,0,4,2-3 times a week,Once a week,Less than once a week,Everyday,Never,Female,Single,Sunflower oil
+2,1,0,2,156.0,54.0,76,4,2,5,5,3,4,4-6 times a week,Once a week,Everyday,Everyday,2-3 times a week,Female,Single,Sunflower oil
+2,1,2,0,152.0,44.0,73,3,3,5,0,5,2,2-3 times a week,2-3 times a week,Everyday,Never,Everyday,Female,Single,Margarine
+2,1,3,0,156.0,58.0,72,3,4,5,5,0,5,2-3 times a week,4-6 times a week,Everyday,Everyday,Never,Female,Single,Olive oil
+2,2,0,2,160.0,62.0,78,3,3,4,5,4,4,2-3 times a week,2-3 times a week,4-6 times a week,Everyday,4-6 times a week,Female,Living with spouse,Sunflower oil
+1,2,0,2,170.0,69.0,84,3,0,4,5,0,4,2-3 times a week,Never,4-6 times a week,Everyday,Never,Male,Living with spouse,Sunflower oil
+2,2,4,0,164.0,80.0,65,3,2,3,3,1,5,2-3 times a week,Once a week,2-3 times a week,2-3 times a week,Less than once a week,Female,Living with spouse,Olive oil
+2,1,2,0,160.0,53.0,71,3,3,5,5,0,3,2-3 times a week,2-3 times a week,Everyday,Everyday,Never,Female,Single,Peanut oil
+1,2,0,0,175.0,75.0,70,3,3,5,5,3,3,2-3 times a week,2-3 times a week,Everyday,Everyday,2-3 times a week,Male,Living with spouse,Peanut oil
+2,1,0,2,161.0,56.0,71,4,3,4,5,5,2,4-6 times a week,2-3 times a week,4-6 times a week,Everyday,Everyday,Female,Single,Margarine
+2,2,0,2,168.0,70.0,69,4,3,5,4,5,2,4-6 times a week,2-3 times a week,Everyday,4-6 times a week,Everyday,Female,Living with spouse,Margarine
+1,2,0,2,175.0,85.0,77,4,3,5,4,5,2,4-6 times a week,2-3 times a week,Everyday,4-6 times a week,Everyday,Male,Living with spouse,Margarine
+1,1,0,2,186.0,85.0,74,2,4,5,5,0,5,Once a week,4-6 times a week,Everyday,Everyday,Never,Male,Single,Olive oil
+1,2,0,2,176.0,75.0,86,4,2,4,5,0,4,4-6 times a week,Once a week,4-6 times a week,Everyday,Never,Male,Living with spouse,Sunflower oil
+2,2,0,2,158.0,73.0,79,4,2,4,5,0,4,4-6 times a week,Once a week,4-6 times a week,Everyday,Never,Female,Living with spouse,Sunflower oil
+2,1,0,4,167.0,69.0,71,5,4,5,5,5,5,Everyday,4-6 times a week,Everyday,Everyday,Everyday,Female,Single,Olive oil
+1,2,3,0,186.0,63.0,72,4,3,5,4,4,3,4-6 times a week,2-3 times a week,Everyday,4-6 times a week,4-6 times a week,Male,Living with spouse,Peanut oil
+2,2,3,0,165.0,67.0,70,4,3,5,4,5,3,4-6 times a week,2-3 times a week,Everyday,4-6 times a week,Everyday,Female,Living with spouse,Peanut oil
+2,2,0,2,168.0,69.0,66,3,3,5,5,5,1,2-3 times a week,2-3 times a week,Everyday,Everyday,Everyday,Female,Living with spouse,Butter
+2,1,0,2,156.0,57.0,68,4,2,4,4,3,2,4-6 times a week,Once a week,4-6 times a week,4-6 times a week,2-3 times a week,Female,Single,Margarine
+2,1,0,0,164.0,90.0,68,3,2,3,2,1,4,2-3 times a week,Once a week,2-3 times a week,Once a week,Less than once a week,Female,Single,Sunflower oil
+2,1,1,1,163.0,45.0,74,4,3,5,5,5,6,4-6 times a week,2-3 times a week,Everyday,Everyday,Everyday,Female,Single,Mix of vegetable oils (eg. Isio4)
+1,1,0,0,170.0,77.0,72,4,4,5,1,5,4,4-6 times a week,4-6 times a week,Everyday,Less than once a week,Everyday,Male,Single,Sunflower oil
+1,1,0,0,172.0,74.0,73,4,1,5,3,5,4,4-6 times a week,Less than once a week,Everyday,2-3 times a week,Everyday,Male,Single,Sunflower oil
+2,1,4,0,162.0,51.0,78,5,1,5,4,5,4,Everyday,Less than once a week,Everyday,4-6 times a week,Everyday,Female,Single,Sunflower oil
+2,1,2,1,163.0,75.0,89,3,3,5,5,1,2,2-3 times a week,2-3 times a week,Everyday,Everyday,Less than once a week,Female,Single,Margarine
+1,2,0,2,178.0,80.0,67,5,3,2,3,3,4,Everyday,2-3 times a week,Once a week,2-3 times a week,2-3 times a week,Male,Living with spouse,Sunflower oil
+2,1,0,2,148.0,50.0,87,5,2,5,5,5,4,Everyday,Once a week,Everyday,Everyday,Everyday,Female,Single,Sunflower oil
+2,2,2,0,155.0,71.0,81,5,2,1,5,1,4,Everyday,Once a week,Less than once a week,Everyday,Less than once a week,Female,Living with spouse,Sunflower oil
+1,2,2,0,168.0,65.0,70,5,2,1,5,1,4,Everyday,Once a week,Less than once a week,Everyday,Less than once a week,Male,Living with spouse,Sunflower oil
+2,1,0,0,165.0,60.0,77,5,3,5,5,5,4,Everyday,2-3 times a week,Everyday,Everyday,Everyday,Female,Single,Sunflower oil
+1,2,0,0,163.0,71.0,86,4,2,4,5,5,3,4-6 times a week,Once a week,4-6 times a week,Everyday,Everyday,Male,Living with spouse,Peanut oil
+2,2,0,0,154.0,50.0,78,4,2,4,5,5,3,4-6 times a week,Once a week,4-6 times a week,Everyday,Everyday,Female,Living with spouse,Peanut oil
+2,1,0,1,163.0,61.0,70,5,1,2,5,5,4,Everyday,Less than once a week,Once a week,Everyday,Everyday,Female,Single,Sunflower oil
+2,2,9,0,159.0,68.0,74,4,3,2,5,0,7,4-6 times a week,2-3 times a week,Once a week,Everyday,Never,Female,Living with spouse,Colza oil
+1,2,2,1,181.0,76.0,78,4,3,5,5,5,5,4-6 times a week,2-3 times a week,Everyday,Everyday,Everyday,Male,Living with spouse,Olive oil
+2,2,4,1,154.0,53.0,76,4,3,5,5,5,5,4-6 times a week,2-3 times a week,Everyday,Everyday,Everyday,Female,Living with spouse,Olive oil
+1,2,0,2,172.0,75.0,76,3,4,5,5,1,5,2-3 times a week,4-6 times a week,Everyday,Everyday,Less than once a week,Male,Living with spouse,Olive oil
+2,2,2,0,163.0,58.0,67,2,4,5,5,3,5,Once a week,4-6 times a week,Everyday,Everyday,2-3 times a week,Female,Living with spouse,Olive oil
+2,1,1,1,158.0,42.0,67,1,2,5,2,5,3,Less than once a week,Once a week,Everyday,Once a week,Everyday,Female,Single,Peanut oil
+2,1,0,3,150.0,56.0,77,4,2,2,5,0,3,4-6 times a week,Once a week,Once a week,Everyday,Never,Female,Single,Peanut oil
+2,1,0,2,153.0,48.0,72,3,3,4,4,4,4,2-3 times a week,2-3 times a week,4-6 times a week,4-6 times a week,4-6 times a week,Female,Single,Sunflower oil
+1,2,0,1,170.0,55.0,74,5,2,5,5,1,1,Everyday,Once a week,Everyday,Everyday,Less than once a week,Male,Living with spouse,Butter
+2,2,2,3,164.0,54.0,75,5,3,5,5,1,2,Everyday,2-3 times a week,Everyday,Everyday,Less than once a week,Female,Living with spouse,Margarine
+1,2,2,3,165.0,64.0,78,5,3,5,5,1,2,Everyday,2-3 times a week,Everyday,Everyday,Less than once a week,Male,Living with spouse,Margarine
+2,1,0,2,151.0,38.0,66,4,4,5,5,5,2,4-6 times a week,4-6 times a week,Everyday,Everyday,Everyday,Female,Single,Margarine
+1,2,0,1,172.0,78.0,84,3,3,5,5,1,4,2-3 times a week,2-3 times a week,Everyday,Everyday,Less than once a week,Male,Living with spouse,Sunflower oil
+2,2,0,2,153.0,64.0,82,3,2,5,5,1,4,2-3 times a week,Once a week,Everyday,Everyday,Less than once a week,Female,Living with spouse,Sunflower oil
+1,1,0,1,173.0,75.0,80,4,3,5,4,2,5,4-6 times a week,2-3 times a week,Everyday,4-6 times a week,Once a week,Male,Single,Olive oil
+1,2,0,3,188.0,75.0,75,5,3,5,5,5,4,Everyday,2-3 times a week,Everyday,Everyday,Everyday,Male,Living with spouse,Sunflower oil
+2,2,0,3,160.0,58.0,69,5,3,5,5,1,4,Everyday,2-3 times a week,Everyday,Everyday,Less than once a week,Female,Living with spouse,Sunflower oil
+1,2,0,3,174.0,73.0,69,4,3,5,5,5,4,4-6 times a week,2-3 times a week,Everyday,Everyday,Everyday,Male,Living with spouse,Sunflower oil
+2,2,0,2,150.0,40.0,70,4,3,5,5,5,4,4-6 times a week,2-3 times a week,Everyday,Everyday,Everyday,Female,Living with spouse,Sunflower oil
+2,1,0,2,168.0,63.0,69,3,3,4,5,1,3,2-3 times a week,2-3 times a week,4-6 times a week,Everyday,Less than once a week,Female,Single,Peanut oil
+2,2,2,1,162.0,55.0,65,3,3,5,5,1,3,2-3 times a week,2-3 times a week,Everyday,Everyday,Less than once a week,Female,Living with spouse,Peanut oil
+2,1,10,1,158.0,63.0,75,5,2,5,5,5,4,Everyday,Once a week,Everyday,Everyday,Everyday,Female,Single,Sunflower oil
+2,1,0,2,140.0,56.0,84,3,1,3,3,4,3,2-3 times a week,Less than once a week,2-3 times a week,2-3 times a week,4-6 times a week,Female,Single,Peanut oil
+1,1,0,3,172.0,74.0,81,5,1,5,5,3,2,Everyday,Less than once a week,Everyday,Everyday,2-3 times a week,Male,Single,Margarine
+2,1,1,0,156.0,54.0,79,3,5,5,5,0,5,2-3 times a week,Everyday,Everyday,Everyday,Never,Female,Single,Olive oil
+2,3,0,0,160.0,60.0,76,4,3,5,2,2,4,4-6 times a week,2-3 times a week,Everyday,Once a week,Once a week,Female,Living with familty,Sunflower oil
+1,2,0,3,170.0,75.0,71,4,2,5,5,3,3,4-6 times a week,Once a week,Everyday,Everyday,2-3 times a week,Male,Living with spouse,Peanut oil
+2,2,2,0,165.0,69.0,77,5,2,5,5,1,3,Everyday,Once a week,Everyday,Everyday,Less than once a week,Female,Living with spouse,Peanut oil
+1,2,0,3,163.0,70.0,70,5,3,5,5,2,3,Everyday,2-3 times a week,Everyday,Everyday,Once a week,Male,Living with spouse,Peanut oil
+2,2,0,3,160.0,50.0,70,3,2,5,5,1,3,2-3 times a week,Once a week,Everyday,Everyday,Less than once a week,Female,Living with spouse,Peanut oil
+1,2,0,3,165.0,75.0,73,3,2,5,5,1,3,2-3 times a week,Once a week,Everyday,Everyday,Less than once a week,Male,Living with spouse,Peanut oil
+2,2,0,3,156.0,53.0,71,5,1,5,5,0,4,Everyday,Less than once a week,Everyday,Everyday,Never,Female,Living with spouse,Sunflower oil
+1,2,0,2,178.0,82.0,76,5,2,5,5,5,4,Everyday,Once a week,Everyday,Everyday,Everyday,Male,Living with spouse,Sunflower oil
+2,2,0,4,160.0,75.0,69,4,2,2,5,1,3,4-6 times a week,Once a week,Once a week,Everyday,Less than once a week,Female,Living with spouse,Peanut oil
+2,1,0,3,171.0,72.0,75,5,3,5,5,1,2,Everyday,2-3 times a week,Everyday,Everyday,Less than once a week,Female,Single,Margarine
+2,3,0,1,156.0,64.0,80,3,3,5,5,1,1,2-3 times a week,2-3 times a week,Everyday,Everyday,Less than once a week,Female,Living with familty,Butter
+2,1,0,3,150.0,60.0,76,3,3,5,3,1,6,2-3 times a week,2-3 times a week,Everyday,2-3 times a week,Less than once a week,Female,Single,Mix of vegetable oils (eg. Isio4)
+2,1,0,4,162.0,53.0,65,4,3,5,5,5,2,4-6 times a week,2-3 times a week,Everyday,Everyday,Everyday,Female,Single,Margarine
+2,2,3,0,164.0,67.0,67,4,3,5,5,1,6,4-6 times a week,2-3 times a week,Everyday,Everyday,Less than once a week,Female,Living with spouse,Mix of vegetable oils (eg. Isio4)
+1,2,0,2,178.0,66.0,70,4,3,5,5,1,6,4-6 times a week,2-3 times a week,Everyday,Everyday,Less than once a week,Male,Living with spouse,Mix of vegetable oils (eg. Isio4)
+2,2,1,2,166.0,55.0,76,4,3,5,5,0,1,4-6 times a week,2-3 times a week,Everyday,Everyday,Never,Female,Living with spouse,Butter
+2,1,0,3,151.0,60.0,72,3,3,5,5,1,4,2-3 times a week,2-3 times a week,Everyday,Everyday,Less than once a week,Female,Single,Sunflower oil
+1,2,0,2,169.0,74.0,77,3,2,5,2,2,4,2-3 times a week,Once a week,Everyday,Once a week,Once a week,Male,Living with spouse,Sunflower oil
+2,2,0,0,155.0,45.0,73,3,3,5,5,0,2,2-3 times a week,2-3 times a week,Everyday,Everyday,Never,Female,Living with spouse,Margarine
+1,1,0,1,176.0,75.0,77,3,3,5,5,3,5,2-3 times a week,2-3 times a week,Everyday,Everyday,2-3 times a week,Male,Single,Olive oil
+1,1,0,5,171.0,74.0,70,5,2,0,3,2,1,Everyday,Once a week,Never,2-3 times a week,Once a week,Male,Single,Butter
+2,3,0,3,165.0,75.0,73,3,3,5,5,1,4,2-3 times a week,2-3 times a week,Everyday,Everyday,Less than once a week,Female,Living with familty,Sunflower oil
+1,2,4,0,176.0,82.0,66,3,3,5,5,0,5,2-3 times a week,2-3 times a week,Everyday,Everyday,Never,Male,Living with spouse,Olive oil
+2,1,1,1,158.0,55.0,85,3,3,3,4,3,3,2-3 times a week,2-3 times a week,2-3 times a week,4-6 times a week,2-3 times a week,Female,Single,Peanut oil
+2,1,0,3,153.0,69.0,72,3,3,1,4,2,5,2-3 times a week,2-3 times a week,Less than once a week,4-6 times a week,Once a week,Female,Single,Olive oil
+2,1,0,2,155.0,64.0,78,2,0,5,3,0,3,Once a week,Never,Everyday,2-3 times a week,Never,Female,Single,Peanut oil
+2,1,0,2,155.0,65.0,82,4,4,5,1,0,6,4-6 times a week,4-6 times a week,Everyday,Less than once a week,Never,Female,Single,Mix of vegetable oils (eg. Isio4)
+2,1,0,0,169.0,60.0,75,3,3,5,4,2,6,2-3 times a week,2-3 times a week,Everyday,4-6 times a week,Once a week,Female,Single,Mix of vegetable oils (eg. Isio4)
+2,1,2,0,148.0,60.0,73,3,1,3,4,3,4,2-3 times a week,Less than once a week,2-3 times a week,4-6 times a week,2-3 times a week,Female,Single,Sunflower oil
+2,1,0,0,156.0,52.0,72,4,2,0,5,5,4,4-6 times a week,Once a week,Never,Everyday,Everyday,Female,Single,Sunflower oil
+1,3,0,2,166.0,92.0,79,5,2,5,5,0,8,Everyday,Once a week,Everyday,Everyday,Never,Male,Living with familty,Duck or goose fat
+2,1,0,5,155.0,57.0,69,2,1,2,4,5,4,Once a week,Less than once a week,Once a week,4-6 times a week,Everyday,Female,Single,Sunflower oil
+2,3,2,1,154.0,78.0,66,4,3,3,5,0,4,4-6 times a week,2-3 times a week,2-3 times a week,Everyday,Never,Female,Living with familty,Sunflower oil
+1,1,0,3,164.0,78.0,75,3,3,5,5,0,5,2-3 times a week,2-3 times a week,Everyday,Everyday,Never,Male,Single,Olive oil
+1,2,0,2,175.0,56.0,75,5,3,5,5,1,8,Everyday,2-3 times a week,Everyday,Everyday,Less than once a week,Male,Living with spouse,Duck or goose fat
+2,2,0,2,162.0,71.0,73,5,3,5,5,0,8,Everyday,2-3 times a week,Everyday,Everyday,Never,Female,Living with spouse,Duck or goose fat
+2,2,0,1,158.0,65.0,69,2,2,5,5,5,3,Once a week,Once a week,Everyday,Everyday,Everyday,Female,Living with spouse,Peanut oil
+2,2,0,3,154.0,51.0,76,4,3,5,5,0,4,4-6 times a week,2-3 times a week,Everyday,Everyday,Never,Female,Living with spouse,Sunflower oil
+2,1,0,2,160.0,70.0,72,5,3,5,5,0,3,Everyday,2-3 times a week,Everyday,Everyday,Never,Female,Single,Peanut oil
+2,1,0,2,163.0,72.0,72,5,3,5,5,0,3,Everyday,2-3 times a week,Everyday,Everyday,Never,Female,Single,Peanut oil
+2,2,0,1,152.0,53.0,78,3,2,5,5,3,4,2-3 times a week,Once a week,Everyday,Everyday,2-3 times a week,Female,Living with spouse,Sunflower oil
+2,1,0,1,163.0,62.0,68,3,3,3,5,0,6,2-3 times a week,2-3 times a week,2-3 times a week,Everyday,Never,Female,Single,Mix of vegetable oils (eg. Isio4)
+2,1,3,1,170.0,61.0,83,1,5,5,5,5,5,Less than once a week,Everyday,Everyday,Everyday,Everyday,Female,Single,Olive oil
+1,2,0,1,182.0,74.0,75,3,3,5,4,2,6,2-3 times a week,2-3 times a week,Everyday,4-6 times a week,Once a week,Male,Living with spouse,Mix of vegetable oils (eg. Isio4)
+2,2,2,1,163.0,68.0,70,3,3,5,4,2,6,2-3 times a week,2-3 times a week,Everyday,4-6 times a week,Once a week,Female,Living with spouse,Mix of vegetable oils (eg. Isio4)
+1,2,0,2,170.0,75.0,74,3,3,5,4,1,2,2-3 times a week,2-3 times a week,Everyday,4-6 times a week,Less than once a week,Male,Living with spouse,Margarine
+2,2,6,0,158.0,62.0,75,3,3,5,4,0,2,2-3 times a week,2-3 times a week,Everyday,4-6 times a week,Never,Female,Living with spouse,Margarine
+1,2,0,2,182.0,90.0,66,5,2,5,3,1,5,Everyday,Once a week,Everyday,2-3 times a week,Less than once a week,Male,Living with spouse,Olive oil
+2,3,1,0,164.0,64.0,77,5,3,5,5,4,5,Everyday,2-3 times a week,Everyday,Everyday,4-6 times a week,Female,Living with familty,Olive oil
+2,1,0,2,156.0,68.0,72,3,3,5,3,1,1,2-3 times a week,2-3 times a week,Everyday,2-3 times a week,Less than once a week,Female,Single,Butter
+1,2,0,2,172.0,91.0,73,2,4,5,4,1,5,Once a week,4-6 times a week,Everyday,4-6 times a week,Less than once a week,Male,Living with spouse,Olive oil
+1,2,0,2,162.0,75.0,65,4,2,4,5,1,3,4-6 times a week,Once a week,4-6 times a week,Everyday,Less than once a week,Male,Living with spouse,Peanut oil
+2,2,0,1,150.0,48.0,73,5,3,5,5,5,4,Everyday,2-3 times a week,Everyday,Everyday,Everyday,Female,Living with spouse,Sunflower oil
+2,1,2,1,160.0,65.0,81,4,3,4,5,4,3,4-6 times a week,2-3 times a week,4-6 times a week,Everyday,4-6 times a week,Female,Single,Peanut oil
+2,1,0,2,152.0,54.0,69,3,3,5,3,4,2,2-3 times a week,2-3 times a week,Everyday,2-3 times a week,4-6 times a week,Female,Single,Margarine
+1,1,0,2,165.0,54.0,70,3,3,5,2,1,2,2-3 times a week,2-3 times a week,Everyday,Once a week,Less than once a week,Male,Single,Margarine
+2,2,0,3,155.0,63.0,71,4,3,5,5,0,4,4-6 times a week,2-3 times a week,Everyday,Everyday,Never,Female,Living with spouse,Sunflower oil
+1,2,0,2,168.0,67.0,73,4,3,5,5,0,4,4-6 times a week,2-3 times a week,Everyday,Everyday,Never,Male,Living with spouse,Sunflower oil
+2,3,0,1,154.0,63.0,74,5,2,5,5,0,6,Everyday,Once a week,Everyday,Everyday,Never,Female,Living with familty,Mix of vegetable oils (eg. Isio4)
+1,2,0,0,176.0,74.0,72,3,3,5,3,3,1,2-3 times a week,2-3 times a week,Everyday,2-3 times a week,2-3 times a week,Male,Living with spouse,Butter
+2,1,3,1,154.0,53.0,71,3,1,3,1,4,3,2-3 times a week,Less than once a week,2-3 times a week,Less than once a week,4-6 times a week,Female,Single,Peanut oil
+1,1,0,2,168.0,67.0,69,3,3,5,5,1,3,2-3 times a week,2-3 times a week,Everyday,Everyday,Less than once a week,Male,Single,Peanut oil
+2,2,0,1,163.0,61.0,66,2,2,5,3,4,6,Once a week,Once a week,Everyday,2-3 times a week,4-6 times a week,Female,Living with spouse,Mix of vegetable oils (eg. Isio4)
+1,2,0,1,177.0,80.0,74,2,2,5,3,4,6,Once a week,Once a week,Everyday,2-3 times a week,4-6 times a week,Male,Living with spouse,Mix of vegetable oils (eg. Isio4)
+1,2,4,2,168.0,73.0,67,2,4,5,3,0,5,Once a week,4-6 times a week,Everyday,2-3 times a week,Never,Male,Living with spouse,Olive oil
+2,1,0,2,171.0,65.0,76,3,3,5,5,5,5,2-3 times a week,2-3 times a week,Everyday,Everyday,Everyday,Female,Single,Olive oil
+2,1,5,1,160.0,62.0,84,3,3,4,5,5,2,2-3 times a week,2-3 times a week,4-6 times a week,Everyday,Everyday,Female,Single,Margarine
+2,1,0,3,168.0,64.0,84,3,3,5,3,5,5,2-3 times a week,2-3 times a week,Everyday,2-3 times a week,Everyday,Female,Single,Olive oil
+2,1,2,2,160.0,48.0,78,5,3,5,5,3,4,Everyday,2-3 times a week,Everyday,Everyday,2-3 times a week,Female,Single,Sunflower oil
+1,2,4,1,177.0,67.0,76,4,5,1,5,0,3,4-6 times a week,Everyday,Less than once a week,Everyday,Never,Male,Living with spouse,Peanut oil
+2,3,0,2,160.0,80.0,71,3,3,4,4,1,2,2-3 times a week,2-3 times a week,4-6 times a week,4-6 times a week,Less than once a week,Female,Living with familty,Margarine
+1,2,0,3,165.0,76.0,80,5,1,5,5,1,5,Everyday,Less than once a week,Everyday,Everyday,Less than once a week,Male,Living with spouse,Olive oil
+2,2,1,0,157.0,80.0,79,5,1,5,5,1,4,Everyday,Less than once a week,Everyday,Everyday,Less than once a week,Female,Living with spouse,Sunflower oil
+1,2,0,1,176.0,73.0,66,4,3,5,5,1,5,4-6 times a week,2-3 times a week,Everyday,Everyday,Less than once a week,Male,Living with spouse,Olive oil
+2,2,0,1,151.0,48.0,66,4,3,4,5,5,5,4-6 times a week,2-3 times a week,4-6 times a week,Everyday,Everyday,Female,Living with spouse,Olive oil
+2,2,0,5,153.0,53.0,69,4,3,5,5,1,5,4-6 times a week,2-3 times a week,Everyday,Everyday,Less than once a week,Female,Living with spouse,Olive oil
+2,2,2,0,165.0,64.0,75,4,3,5,4,5,5,4-6 times a week,2-3 times a week,Everyday,4-6 times a week,Everyday,Female,Living with spouse,Olive oil
+1,2,0,0,171.0,85.0,73,4,3,5,4,1,5,4-6 times a week,2-3 times a week,Everyday,4-6 times a week,Less than once a week,Male,Living with spouse,Olive oil
+1,2,0,5,167.0,76.0,82,3,3,5,4,5,6,2-3 times a week,2-3 times a week,Everyday,4-6 times a week,Everyday,Male,Living with spouse,Mix of vegetable oils (eg. Isio4)
+2,2,2,1,157.0,58.0,77,3,3,5,4,5,6,2-3 times a week,2-3 times a week,Everyday,4-6 times a week,Everyday,Female,Living with spouse,Mix of vegetable oils (eg. Isio4)
+2,1,0,1,160.0,73.0,74,4,3,5,5,1,6,4-6 times a week,2-3 times a week,Everyday,Everyday,Less than once a week,Female,Single,Mix of vegetable oils (eg. Isio4)
+2,2,0,3,163.0,62.0,68,4,3,4,4,1,3,4-6 times a week,2-3 times a week,4-6 times a week,4-6 times a week,Less than once a week,Female,Living with spouse,Peanut oil
+1,2,0,2,170.0,74.0,71,4,3,4,4,1,3,4-6 times a week,2-3 times a week,4-6 times a week,4-6 times a week,Less than once a week,Male,Living with spouse,Peanut oil
+2,1,0,2,154.0,45.0,77,4,3,3,5,3,5,4-6 times a week,2-3 times a week,2-3 times a week,Everyday,2-3 times a week,Female,Single,Olive oil
+2,2,2,0,159.0,63.0,69,3,3,5,5,1,4,2-3 times a week,2-3 times a week,Everyday,Everyday,Less than once a week,Female,Living with spouse,Sunflower oil
